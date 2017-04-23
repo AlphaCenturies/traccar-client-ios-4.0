@@ -31,7 +31,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    self.title = NSLocalizedString(@"Traccar Client", @"");
+    self.title = NSLocalizedString(@"TrackBus Client", @"");
     self.showCreditsFooter = NO;
     self.neverShowPrivacySettings = YES;
 }
